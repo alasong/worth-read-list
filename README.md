@@ -1,1 +1,1 @@
-# worth_read_list
+# worth-read-list
